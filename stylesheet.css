@@ -94,7 +94,7 @@ header {
 
 .lesson-wrapper {
   height: 500px;
-  padding-bottom: 80px;
+  padding-bottom: 200px;
   background-color: #f7f7f7;
   text-align: center;
 }
@@ -138,10 +138,11 @@ header {
 }
 
 .message-wrapper {
+  margin: auto;
   padding: 180px 0 100px 0;
   color: white;
   text-align: center;
-  background-image: url("top.png");
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
   background-size: cover;
 }
 
