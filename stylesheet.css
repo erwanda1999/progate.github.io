@@ -27,6 +27,11 @@ li {
   padding: 100px 80px;
 }
 
+.copy-container {
+  background-image:url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-size: cover:
+}
+
 .copy-container h1 {
   font-size: 140px;
 }
